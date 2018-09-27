@@ -91,15 +91,15 @@ $(document).ready( function(){
 $(document).ready( function(){
 	
 $('#bg-image').backstretch([
-"https://i.imgur.com/wZ0vbmU.jpg"
-, "https://i.imgur.com/h9lLn4B.jpg"
-, "https://i.imgur.com/rZZODb7.jpg"
-, "https://i.imgur.com/EEJ70tu.jpg"
-, "https://i.imgur.com/m4qwxf5.jpg"
-, "https://i.imgur.com/W9Jyqic.jpg"
+""
+, ""
+, ""
+, ""
+, ""
+, ""
 , "https://i.imgur.com/cgGDBPd.jpg"
-, "https://i.imgur.com/6zIrIGU.png"
-, "https://i.imgur.com/AK8ujIu.jpg"
+, ""
+, ""
 , "https://i.imgur.com/9u9vFdd.jpg"
 
 
